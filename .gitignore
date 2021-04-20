@@ -112,3 +112,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+extras.db
+extras.db-journal
+test.backup.db
+test.db
+.vscode/settings.json
