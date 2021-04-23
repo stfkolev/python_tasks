@@ -117,3 +117,4 @@ extras.db-journal
 test.backup.db
 test.db
 .vscode/settings.json
+test.db-journal
